@@ -16,7 +16,8 @@
   const assembleTemplate = document.createElement("select");
   const robots = [
     { name: "ドラム腕デビガン", code: "[5rbokQeR,oA0h]" },
-    { name: "Eサブデビガン", code: "[VjaPQKac,oA1p]" },
+    { name: "Eサブデビガン(891S月光)", code: "[VjaPQK24,oA1p]" },
+    { name: "ドラム腕Eサブデビガン", code: "[VdTn7jyE,oA1r]" },
     { name: "陸リヴァイアサン", code: "[16AoCYnv2,nJtb]" },
     { name: "見た目はお嬢様", code: "[5qFQn4X7,oA0h]" },
   ];
