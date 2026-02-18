@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  try to take over the world!
 // @author       armored-core
-// @match        http://k-2nd.sakura.ne.jp/ac/report/support_tool/jayhoun.html
+// @match        *://k-2nd.sakura.ne.jp/ac/report/support_tool/jayhoun.html
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=sakura.ne.jp
 // @grant        none
 // ==/UserScript==
